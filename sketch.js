@@ -59,7 +59,7 @@ function mousePressed() {
   textSize(32);
   textStyle("bold")
   fill("white");
-  text("*answer I WILL HELP YOU, scream loud!", 250, 650);
+  text("*answer I WILL HELP YOU, scream  very loud!", 250, 650);
 
 
 }
