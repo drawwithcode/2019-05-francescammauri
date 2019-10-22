@@ -6,10 +6,10 @@ var backpack;
 var song;
 function preload(){
 // uploading images and sound
-myImage = loadImage("./assets/farm.jpg");
-magic = loadImage("./assets/dora.png");
+myImage = loadImage("./assets/farm-min.jpg");
+magic = loadImage("./assets/dora-min.png");
 comic = loadImage("./assets/baloon.png");
-backpack = loadImage("./assets/backpack.png");
+backpack = loadImage("./assets/backpack-min.png");
 song = loadSound("./assets/backpack song.mp3")
 }
 
