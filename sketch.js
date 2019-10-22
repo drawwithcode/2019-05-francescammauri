@@ -60,6 +60,10 @@ function mousePressed() {
   textStyle("bold")
   fill("white");
   text("*answer I WILL HELP YOU, scream  very loud!", 250, 650);
-
+// last instruction
+  textSize(16);
+  textStyle("bold")
+  fill("white");
+  text("*if nothing happens, you weren't loud enough", 600, 680);
 
 }
